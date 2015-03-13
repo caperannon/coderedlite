@@ -1,0 +1,1 @@
+New, faster and simplified version of CodeRedEconomy. Uses SQLite.
